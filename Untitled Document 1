@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+ int a;      //input -> print
+ scanf("%f", &b); //66
+ printf("%f", b)  //66
+ }
